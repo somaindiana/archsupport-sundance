@@ -1,0 +1,10 @@
+{
+  "name": "sundance-architectural-support",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node tools/serve.mjs",
+    "build": "node tools/build.mjs"
+  }
+}

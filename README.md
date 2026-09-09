@@ -15,7 +15,7 @@ GitHub repository: https://github.com/somaindiana/archsupport-sundance. For GitH
 ## Content and design
 
 - Palette and fonts follow the supplied Sundance source: Fraunces, Archivo, navy, paper and bronze.
-- Dorottya Udvar is explicitly credited as a Sundance development, not as Aki's project.
+- The hero shows Aki's Corner House design proposal. The selected-work section includes the Corner House presentation, storage navigation plan and facade concept study, with links to the supplied originals. Dorottya is no longer shown on the page.
 - Service details, experience, contact address and £16/hour regular-block rate come from the supplied CV and service sheet.
 - The prospect CSV informed the audience; it is not included in the public site.
 - PDF downloads are copies of the supplied documents. Email links open a visitor's email application; no message is sent by the website.

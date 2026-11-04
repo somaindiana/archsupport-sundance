@@ -9,7 +9,7 @@ for (const [, link] of html.matchAll(/(?:href|src)="([^"]+)"/g)) {
   if (link.startsWith('#')) {
     if (!ids.includes(link.slice(1))) throw new Error(`Missing section: ${link}`);
   } else if (!/^[a-z]+:/i.test(link)) {
-    await access(resolve(root, link));
+    await access(resolve(root, link.split(/[?#]/)[0]));
   }
 }
 await mkdir(resolve(root, 'dist'), { recursive: true });
